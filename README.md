@@ -9,7 +9,7 @@ El sistema a seguir para organizar las localizaciones será agregar a cada Slug 
 ## Procedimeinto de localización
 El método para para traducir es usar  comentarios HTML para enmarcar el párrafo en inglés y luego escribir el texto en español abajo. Gracias [Hugo Ruscitti](https://github.com/hugoruscitti) por la idea :)
 
-Por ejemplo, enmarco el párrafo a traducir
+Por ejemplo, enmarco el párrafo a traducir con \<\\!\\-\-\ al principio y --> al final
 
 	<!--== What is a Badge? ==
 	
