@@ -1,18 +1,36 @@
-<section begin=summary />{{RoadmapSummary
+<!--<section begin=summary />{{RoadmapSummary
 |icon=3ea2d817e92ac6e2e4e69bf9e9290d4f bigger.png 
 |pagelocation=Open Badges
 |pagetitle=Mozilla Open Badges
 |owner=Erin Knight, Carla Casilli, Sunny Lee, Emily Goligoski, Chris McAvoy, Brian Brennan, Mike Larsson, Jess Klein, Chloe Varelidi, Atul Varma, Meg Cole, Jade Forester
 |updated=March 2014
 |description=Mozilla's Open Badges make it easy for anyone to issue, earn and display badges across the web through a shared infrastructure that's free and open to all.
+}}<section end=summary />-->
+<section begin=summary />{{RoadmapSummary
+|icon=3ea2d817e92ac6e2e4e69bf9e9290d4f bigger.png 
+|pagelocation=Open Badges
+|pagetitle=Mozilla Open Badges
+|owner=Erin Knight, Carla Casilli, Sunny Lee, Emily Goligoski, Chris McAvoy, Brian Brennan, Mike Larsson, Jess Klein, Chloe Varelidi, Atul Varma, Meg Cole, Jade Forester
+|updated=March 2014
+|description=Localización al Español de la wiki sobre [https://wiki.mozilla.org/Badges Open Badges de Mozilla]). Open Badges hace fácil para cualquiera emitir, ganar y mostrar badges o insignias por toda de la web a través de una infraestructura colaborativa gratuita y abierta.
 }}<section end=summary />
-
 __NOTOC__ 
 
-== What is a Badge? ==
+<!--== What is a Badge? ==
 
 badge [baj]: a special or distinctive mark, token, or device worn as a sign of
-allegiance, membership, authority, achievement, etc. (Source: [http://dictionary.reference.com/browse/badge Dictionary.com])
+allegiance, membership, authority, achievement, etc. (Source: [http://dictionary.reference.com/browse/badge Dictionary.com])-->
+
+== ¿Qué es un Badge o Insignia? ==
+
+;badje o insignia :
+:# f. Señal, distintivo, o divisa honorífica.
+:# f. Emblema distintivo de una institución, asociación, o marca comercial, que se usa prendido en la ropa como muestra de vinculación o simpatía. Lucía en la solapa una insignia del club
+:# f. Bandera, estandarte, imagen o medalla de un grupo civil, militar o religioso.
+:# f. Mar. Bandera de cierta especie que, puesta al tope de uno de los palos del buque, denota la graduación del jefe que lo manda o de otro que va en él.
+:# f. p. us. Rótulo que indica sobre la puerta el género que se vende en las tiendas, o el que en la puerta de una casa, habitación o despacho indica una profesión u oficio.Es una marca o distintivo especial,
+
+Definiciones extraidas de la [http://lema.rae.es/drae/?val=insignia Real Académia Española]
 
 A badge is a symbol or indicator of an accomplishment, skill, quality or interest. From the Boy and Girl Scouts, to PADI diving instruction, to the more recently popular geo-location game, [https://foursquare.com/ Foursquare], badges have been successfully used to set goals, motivate behaviors, represent achievements and communicate success in many contexts. A “digital badge” is an online record of achievements, tracking the recipient’s communities of interaction that issued the badge and the work completed to get it. Digital badges can support connected learning environments by motivating learning and signaling achievement both within particular communities as well as across communities and institutions. (Source: [https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf Erin Knight White Paper])
 
