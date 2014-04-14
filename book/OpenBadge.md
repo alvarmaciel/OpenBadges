@@ -62,8 +62,8 @@ For general information on BadgeKit, and to join our community, check out http:/
 ## Get started with Open Badges
 
 Ready? Check out our site and Community page
- : http://openbadges.org
- : http://community.openbadges.org/
+  : http://openbadges.org
+  : http://community.openbadges.org/
 
 Set? Create your Backpack
  :https://backpack.openbadges.org
