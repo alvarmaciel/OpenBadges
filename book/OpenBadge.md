@@ -61,12 +61,11 @@ For general information on BadgeKit, and to join our community, check out http:/
 
 ## Get started with Open Badges
 
-&lt;dl&gt;
-  &lt;dt&gt;Ready? Check out our site and Community page&lt;/dt&gt;
-  &lt;dd&gt;http://openbadges.org&lt;/dd&gt;
-  &lt;dt&gt;http://community.openbadges.org/&lt;/dt&gt;
-&lt;/dl&gt;
-
+<dl>
+  <dt>Ready? Check out our site and Community page</dt>
+  <dd>http://openbadges.org</dd>
+  <dd>http://community.openbadges.org/</dd>
+</dl>
 
 
 
