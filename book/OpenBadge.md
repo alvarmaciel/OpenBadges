@@ -65,22 +65,21 @@ For general information on BadgeKit, and to join our community, check out http:/
   <dt>Ready? Check out our site and Community page</dt>
   <dd>http://openbadges.org</dd>
   <dd>http://community.openbadges.org/</dd>
+  <dt>Set? Create your Backpack</dt>
+  <dd>https://backpack.openbadges.org</dd>
+  <dt>Go! Get some Badges!</dt>
+  <dd>Take the [http://openbadges.org/earn/ Badges 101 Quiz] and earn your first badge!</dd>
 </dl>
 
+  
 
-
-Set? Create your Backpack
- :https://backpack.openbadges.org
-
-Go! Get some Badges!
- :Take the [http://openbadges.org/earn/ Badges 101 Quiz] and earn your first badge!
 
 Read more about the [https://github.com/mozilla/openbadges#mozilla-open-badges Technology] behind Open Badges.
 
 
 Find the [https://github.com/mozilla/openbadges/wiki Onboarding information for Issuers, Displayers and Earners] and get started!
 
-== Become part of the Community ==
+##Become part of the Community
 
 * [https://groups.google.com/d/forum/openbadges **Open Badges learning group**] and [https://groups.google.com/forum/#!forum/openbadges-dev **development group**] -- Subscribe to these groups to take part in ongoing conversations about badges in the wild.
 * [https://openbadges.etherpad.mozilla.org/openbadges-community-2 **Open Badges Community Calls**] -- Join our weekly global call every Wednesday at 9am PT / 12pm ET / 5pm GMT. During these hour-long calls we share our progress and encourage you to share your Open Badges work, questions, and comments. They're fun and we encourage you to come along!
