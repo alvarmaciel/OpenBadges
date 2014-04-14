@@ -61,12 +61,14 @@ For general information on BadgeKit, and to join our community, check out http:/
 
 ## Get started with Open Badges
 
-Primer termino
- : Primera definición
+&lt;dl&gt;
+  &lt;dt&gt;Ready? Check out our site and Community page&lt;/dt&gt;
+  &lt;dd&gt;http://openbadges.org&lt;/dd&gt;
+  &lt;dt&gt;http://community.openbadges.org/&lt;/dt&gt;
+&lt;/dl&gt;
 
-Ready? Check out our site and Community page
-  : http://openbadges.org
-  : http://community.openbadges.org/
+
+
 
 Set? Create your Backpack
  :https://backpack.openbadges.org
