@@ -49,7 +49,7 @@ Por ahora y hasta que se resuelvan las discusiones en torno a la localización d
 Un badge digital es una representación online de una habilidad que has obtenido. Open Badges lleva ese concepto paso más allá, y le premite verificar sus habilidades, saberes, intereses y logros a trevés de organizaciones fiables y agrega esa información al archivo/imagen de la insignia, incrustando el metadato para su acceso o revisiones posteriores. Como el sistema está basado en estándares abiertos, los receptores de los badges pueden combinar multiples badges de difrentes emisores de manera que reflejen la histria completa de sus logros o saberes - de forma online como offline. Las insignias pueden ser mostradas en la web donde quienes las reciban deseen, y compartirlas para empleos, educación o aprendizajes continuos
 
 <!--'''Open Badges are:'''-->
-''' Los Insignias Abiertas o Open Badges son: '''-->
+''' Los Insignias Abiertas o Open Badges son: '''
 
 <!--*'''Free and open:''' Mozilla Open Badges is not proprietary. It’s free software and an open technical standard any organization can use to create, issue and verify digital badges.
 *'''Transferable:''' Collect badges from multiple sources, online and off, into a single backpack. Then display your skills and achievements on social networking profiles, job sites, websites and more.
@@ -172,7 +172,7 @@ Leer más sobre la [https://github.com/mozilla/openbadges#mozilla-open-badges Te
 
 *[http://openmatt.wordpress.com/2011/03/17/badges-in-the-real-world/ '''Historias de usuarios'''] -- Ejemplos hipotéticos sobre como los badges pueden resolver problemas en escenarios de la vida real.<br> 
 *[http://www.2mbetterfutures.org/ '''2 Million Better Futures'''] -- Este proyecto de [http://www.cgiamerica.org/ CGI America] tiene como objetivo ayudar a 1 millón de trabajadores y 1 millón de estudiantes a tener éxito usando Insignias Abiertas o Open badges para el 2016.
-*[http://chicagosummeroflearning.org/about '''Chicago Summer of Learning'''] -- La primera iniciativa de credencialización en toda la ciudad, que tuvo tanto éxito que [http://www.enewspf.com/school-news/45425-mayor-emanuel-announces-nearly-100-000-badges-awarded-through-chicago-summer-of-learning.html '''el Alcade Emmanuel se comprometió a continuar el progrma por un año más.''']
+*[http://chicagosummeroflearning.org/about '''Chicago Summer of Learning'''] -- La primera iniciativa de credencialización en toda la ciudad, que tuvo tanto éxito que [http://www.enewspf.com/school-news/45425-mayor-emanuel-announces-nearly-100-000-badges-awarded-through-chicago-summer-of-learning.html '''el Alcade Emmanuel se comprometió a continuar el programa por un año más.''']
 *[http://www.openbadges.org/participating-issuers/ '''Los emisores participantes'''] -- Una lista actualizada de emisores y diseñadores de insignias o badges.
 *[http://bit.ly/platform-chart '''Grilla general de plataformas emisoras de Insignias o Badges'''] -- Una lista de plataformas para emitir insignias abiertas o open badges generada y actualizada continuamente por la comunidad.
 *[http://blog.makewav.es/2013/08/05/open-badges-for-schools-what-are-the-options/ '''Plataforma emisora de insignias o badges para escuelas'''] -- Plataformas de emisión Insignia para las escuelas.
