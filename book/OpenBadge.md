@@ -1,4 +1,4 @@
-<section begin=summary />{{RoadmapSummary
+<!--<section begin=summary />{{RoadmapSummary
 |icon=3ea2d817e92ac6e2e4e69bf9e9290d4f bigger.png 
 |pagelocation=Open Badges
 |pagetitle=Mozilla Open Badges
@@ -7,14 +7,16 @@
 |description=Mozilla's Open Badges make it easy for anyone to issue, earn and display badges across the web through a shared infrastructure that's free and open to all.
 }}<section end=summary />
 
-__NOTOC__ 
+__NOTOC__ -->
 
 ## What is a Badge?
+<dl>
+  <dt>badge [baj]:</dt>
+  <dd>A special or distinctive mark, token, or device worn as a sign of allegiance, membership, authority, achievement, etc. </dd>
+</dl> 
+Source: [Dictionary.com](http://dictionary.reference.com/browse/badge "Dictionary.com")
 
-badge [baj]: a special or distinctive mark, token, or device worn as a sign of
-allegiance, membership, authority, achievement, etc. (Source: [http://dictionary.reference.com/browse/badge Dictionary.com])
-
-A badge is a symbol or indicator of an accomplishment, skill, quality or interest. From the Boy and Girl Scouts, to PADI diving instruction, to the more recently popular geo-location game, [https://foursquare.com/ Foursquare], badges have been successfully used to set goals, motivate behaviors, represent achievements and communicate success in many contexts. A “digital badge” is an online record of achievements, tracking the recipient’s communities of interaction that issued the badge and the work completed to get it. Digital badges can support connected learning environments by motivating learning and signaling achievement both within particular communities as well as across communities and institutions. (Source: [https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf Erin Knight White Paper])
+A badge is a symbol or indicator of an accomplishment, skill, quality or interest. From the Boy and Girl Scouts, to PADI diving instruction, to the more recently popular geo-location game, <https://foursquare.com/ Foursquare>, badges have been successfully used to set goals, motivate behaviors, represent achievements and communicate success in many contexts. A “digital badge” is an online record of achievements, tracking the recipient’s communities of interaction that issued the badge and the work completed to get it. Digital badges can support connected learning environments by motivating learning and signaling achievement both within particular communities as well as across communities and institutions. [Source:](https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf "Erin Knight White Paper")
 
 ## Digital Badges vs Open Badges
 
@@ -38,7 +40,7 @@ A digital badge is an online representation of a skill you’ve earned. Open Bad
 
 Learning today happens everywhere, not just in the classroom. But it's often difficult to get recognition for skills and achievements that happen outside of school. **Mozilla's Open Badges project** is working to solve that problem, making it easy for anyone to issue, earn and display badges across the web through a shared technical infrastructure. **The result:** helping people of all ages gain and display 21st century skills and unlock new career and educational opportunities.
 
-Want to know more about Open Badges? [https://wiki.mozilla.org/Badges/About Read about what badges are and how they work] and check out our [https://wiki.mozilla.org/Badges/FAQs Frequently Asked Questions] page to find some answers, or shoot us an email at [mailto:badges@mozillafoundation.org badges@mozillafoundation.org]
+Want to know more about Open Badges? [Read about what badges are and how they work](https://wiki.mozilla.org/Badges/About "Read about what badges are and how they work") and check out our [Frequently Asked Questions](https://wiki.mozilla.org/Badges/FAQs "Frequently Asked Questions") page to find some answers, or shoot us an email at [badges@mozillafoundation.org](mailto:badges@mozillafoundation.org "badges@mozillafoundation.org")
 
 ## Mozilla BadgeKit
 
@@ -57,7 +59,7 @@ You can apply for access to the private beta hosted version of BadgeKit at http:
 
 For general information on BadgeKit, and to join our community, check out http://badgekit.openbadges.org
 
-[[Badges/badgekit|Read more about BadgeKit]]
+[Read more about BadgeKit](https://wiki.mozilla.org/Badges/badgekit "Read more about BadgeKit" )
 
 ## Get started with Open Badges
 
@@ -68,56 +70,56 @@ For general information on BadgeKit, and to join our community, check out http:/
   <dt>Set? Create your Backpack</dt>
   <dd>https://backpack.openbadges.org</dd>
   <dt>Go! Get some Badges!</dt>
-  <dd>Take the [http://openbadges.org/earn/ Badges 101 Quiz] and earn your first badge!</dd>
+  <dd>Take the [Badges 101 Quiz](http://openbadges.org/earn/ "Badges 101 Quiz") and earn your first badge!</dd>
 </dl>
 
   
 
 
-Read more about the [https://github.com/mozilla/openbadges#mozilla-open-badges Technology] behind Open Badges.
+Read more about the [Technology](https://github.com/mozilla/openbadges#mozilla-open-badges "Technology") behind Open Badges.
 
 
-Find the [https://github.com/mozilla/openbadges/wiki Onboarding information for Issuers, Displayers and Earners] and get started!
+Find the [Onboarding information for Issuers, Displayers and Earners](https://github.com/mozilla/openbadges/wiki "Onboarding information for Issuers, Displayers and Earners") and get started!
 
 ##Become part of the Community
 
-* [https://groups.google.com/d/forum/openbadges **Open Badges learning group**] and [https://groups.google.com/forum/#!forum/openbadges-dev **development group**] -- Subscribe to these groups to take part in ongoing conversations about badges in the wild.
-* [https://openbadges.etherpad.mozilla.org/openbadges-community-2 **Open Badges Community Calls**] -- Join our weekly global call every Wednesday at 9am PT / 12pm ET / 5pm GMT. During these hour-long calls we share our progress and encourage you to share your Open Badges work, questions, and comments. They're fun and we encourage you to come along!
-* [https://openbadges.etherpad.mozilla.org/research-calls **Open Badges Research & Design Calls**] -- If you are interested in Open Badges Research and Badge System Design, join this call, held on Wednesdays in the hour before the Community Calls, at 8am PT / 11am ET / 4pm GMT.
-* [http://openbadges.tumblr.com// **Open Badges Blog**] -- Follow our blog for Open Badges news and updates.
-* [http://twitter.com/#!/openbadges **Twitter**] -- Follow @OpenBadges and use the [https://twitter.com/search?q=%23OpenBadges&src=typd #OpenBadges] hashtag to join the conversation on Twitter.
-* [https://www.facebook.com/MozillaOpenBadges **Facebook**] -- Like us on Facebook for news and updates you can share with your networks.
-* [https://wiki.mozilla.org/IRC **IRC**] -- Reach us on IRC at irc.mozilla.org, #badges
-* [[Media:Open_Badges_Presentation_-_General.pdf‎| **Open Badges presentation materials**]] -- Want to give an Open Badges presentation? To get you started, here's a PDF. Please note that all of these documents are [https://creativecommons.org/licenses/by-sa/2.0/ CC by SA].
-* [https://docs.google.com/document/d/1aTAP04N9dAuSGv71tWOUA1iqYxWWTA4dlQIyP-7WT0E/edit **Common badges terms and vocabulary**] -- Help us to build a common lexicon of digital badge terms.
+* [**Open Badges learning group**](https://groups.google.com/d/forum/openbadges "Open Badges learning group") and [**development group**](https://groups.google.com/forum/#!forum/openbadges-dev "development group") -- Subscribe to these groups to take part in ongoing conversations about badges in the wild.
+* [**Open Badges Community Calls**](https://openbadges.etherpad.mozilla.org/openbadges-community-2 "Open Badges Community Calls") -- Join our weekly global call every Wednesday at 9am PT / 12pm ET / 5pm GMT. During these hour-long calls we share our progress and encourage you to share your Open Badges work, questions, and comments. They're fun and we encourage you to come along!
+* [**Open Badges Research & Design Calls**](https://openbadges.etherpad.mozilla.org/research-calls "Open Badges Research & Design Calls") -- If you are interested in Open Badges Research and Badge System Design, join this call, held on Wednesdays in the hour before the Community Calls, at 8am PT / 11am ET / 4pm GMT.
+* [**Open Badges Blog**](http://openbadges.tumblr.com// "Open Badges Blog") -- Follow our blog for Open Badges news and updates.
+* [**Twitter**](http://twitter.com/#!/openbadges "Twitter") -- Follow @OpenBadges and use the [#OpenBadges](https://twitter.com/search?q=%23OpenBadges&src=typd "#OpenBadges") hashtag to join the conversation on Twitter.
+* [**Facebook**](https://www.facebook.com/MozillaOpenBadges "Facebook") -- Like us on Facebook for news and updates you can share with your networks.
+* [**IRC**](https://wiki.mozilla.org/IRC "IRC") -- Reach us on IRC at irc.mozilla.org, #badges
+* [**Open Badges presentation materials**](https://wiki.mozilla.org/images/8/84/Open_Badges_Presentation_-_General.pdf "Open Badges presentation materials") -- Want to give an Open Badges presentation? To get you started, here's a PDF. Please note that all of these documents are [CC by SA]([https://creativecommons.org/licenses/by-sa/2.0/ "CC by SA").
+* [**Common badges terms and vocabulary**](https://docs.google.com/document/d/1aTAP04N9dAuSGv71tWOUA1iqYxWWTA4dlQIyP-7WT0E/edit "Common badges terms and vocabulary") -- Help us to build a common lexicon of digital badge terms.
 
 ## Who is using Open Badges?
 
-* [http://openmatt.wordpress.com/2011/03/17/badges-in-the-real-world/ **User stories**] -- Hypothetical examples of how badges can help solve problems in everyday scenarios.<br> 
-* [http://www.2mbetterfutures.org/ **2 Million Better Futures**] -- This project from [http://www.cgiamerica.org/ CGI America] aims to help 1 million workers and 1 million students succeed using Open Badges by 2016.
-* [http://chicagosummeroflearning.org/about **Chicago Summer of Learning**] -- The first citywide badging initiative, which was so successful that [http://www.enewspf.com/school-news/45425-mayor-emanuel-announces-nearly-100-000-badges-awarded-through-chicago-summer-of-learning.html **Mayor Emmanuel committed to continuing the program next year.**]
-* [http://www.openbadges.org/participating-issuers/ **Participating Issuers**] -- An updated list of badge issuers and designers.
-* [http://bit.ly/platform-chart **General Badge Issuing Platform Chart**] -- A list of platforms for issuing open badges generated and continuously updated by the community.
-* [http://blog.makewav.es/2013/08/05/open-badges-for-schools-what-are-the-options/ **Badges for School Issuer Platforms**] -- Badge issuing platforms for schools.
-* [https://wiki.mozilla.org/Badges/Issuers **Add your organization!**] -- If you're issuing, designing or exploring open badges with your communities, add your organization to our list of issuers.
+* [**User stories**](http://openmatt.wordpress.com/2011/03/17/badges-in-the-real-world/ "User stories") -- Hypothetical examples of how badges can help solve problems in everyday scenarios.<br> 
+* [**2 Million Better Futures**](http://www.2mbetterfutures.org/ "2 Million Better Futures") -- This project from [CGI America](http://www.cgiamerica.org/ "CGI America") aims to help 1 million workers and 1 million students succeed using Open Badges by 2016.
+* [ **Chicago Summer of Learning**](http://chicagosummeroflearning.org/about "Chicago Summer of Learning") -- The first citywide badging initiative, which was so successful that [**Mayor Emmanuel committed to continuing the program next year.**](http://www.enewspf.com/school-news/45425-mayor-emanuel-announces-nearly-100-000-badges-awarded-through-chicago-summer-of-learning.html "Mayor Emmanuel committed to continuing the program next year").
+* [**Participating Issuers**](http://www.openbadges.org/participating-issuers/ "Participating Issuers") -- An updated list of badge issuers and designers.
+* [**General Badge Issuing Platform Chart**](http://bit.ly/platform-chart "General Badge Issuing Platform Chart") -- A list of platforms for issuing open badges generated and continuously updated by the community.
+* [**Badges for School Issuer Platforms**](http://blog.makewav.es/2013/08/05/open-badges-for-schools-what-are-the-options/ "Badges for School Issuer Platforms") -- Badge issuing platforms for schools.
+* [**Add your organization!**](https://wiki.mozilla.org/Badges/Issuers "Add your organization!") -- If you're issuing, designing or exploring open badges with your communities, add your organization to our list of issuers.
 
 # Further Reading
 
-* [https://wiki.mozilla.org/File:OpenBadges-Working-Paper_012312.pdf **White Paper**] -- An in-depth look at how badges can reinvent 21st century learning<br> 
-* [http://bit.ly/badgevalidation **Open Badges Validation Paper**] -- An exploration of how to build an open and distributed accreditation system for badges and the organizations that issue them<br>
-* [http://www.scoop.it/t/badges-for-lifelong-learning/?tag=Sheryl+Grant **Press coverage**] -- A collection of articles and related items from community member [http://www.hastac.org/users/slgrant Sheryl Grant] (new Press Coverage page coming soon!)
-* [https://wiki.mozilla.org/Badges/roadmap **Open Badges roadmap**] -- We're continually updating the roadmap with new features.
-* [http://dmlcompetition.net **Digital Media and Learning Competition: Badges for LifeLong Learning**] (administered by HASTAC and funded by MacArthur) -- click to learn more.
+* [**White Paper**](https://wiki.mozilla.org/File:OpenBadges-Working-Paper_012312.pdf "White Paper") -- An in-depth look at how badges can reinvent 21st century learning<br> 
+* [**Open Badges Validation Paper**](http://bit.ly/badgevalidation "Open Badges Validation Paper") -- An exploration of how to build an open and distributed accreditation system for badges and the organizations that issue them<br>
+* [**Press coverage**](http://www.scoop.it/t/badges-for-lifelong-learning/?tag=Sheryl+Grant "Press coverage") -- A collection of articles and related items from community member [Sheryl Grant](http://www.hastac.org/users/slgrant "Sheryl Grant") (new Press Coverage page coming soon!)
+* [**Open Badges roadmap**](https://wiki.mozilla.org/Badges/roadmap "Open Badges roadmap") -- We're continually updating the roadmap with new features.
+* [**Digital Media and Learning Competition: Badges for LifeLong Learning**](http://dmlcompetition.net "Digital Media and Learning Competition: Badges for LifeLong Learning") (administered by HASTAC and funded by MacArthur) -- click to learn more.
 
 ## Press Inquiries
 
-Please contact [mailto:press@mozilla.com press@mozilla.com].
+Please contact [press@mozilla.com](mailto:press@mozilla.com "press@mozilla.com").
 
 ## Get involved with Mozilla 
 
-* [http://join.mozilla.org **Join Mozilla**] -- you could get a snazzy t-shirt for joining!
-* [http://www.mozilla.org/about/mission.html **Mozilla's mission**] -- Read more about our mission to promote openness, innovation & opportunity on the Web.
-* [https://www.facebook.com/mozilla **Like Mozilla on Facebook**] and [http://twitter.com/mozilla **Follow Mozilla on Twitter**]
-* [https://donate.mozilla.org/Sign-Up **Get updates from Mozilla**] -- Be the first to know what we're doing and how you can get involved.
+* [**Join Mozilla**](http://join.mozilla.org "Join Mozilla") -- you could get a snazzy t-shirt for joining!
+* [**Mozilla's mission**](http://www.mozilla.org/about/mission.html "Mozilla's mission") -- Read more about our mission to promote openness, innovation & opportunity on the Web.
+* [**Like Mozilla on Facebook**](https://www.facebook.com/mozilla "Like Mozilla on Facebook") and [**Follow Mozilla on Twitter**](http://twitter.com/mozilla "Follow Mozilla on Twitter")
+* [**Get updates from Mozilla**](https://donate.mozilla.org/Sign-Up "Get updates from Mozilla") -- Be the first to know what we're doing and how you can get involved.
 
-[[Image:Open_Badges_napkin_sketch.png|800px]]
+![Open Badges napkin sketch](https://wiki.mozilla.org/images/thumb/8/8a/Open_Badges_napkin_sketch.png/800px-Open_Badges_napkin_sketch.png "Open Badges napkin sketch")
