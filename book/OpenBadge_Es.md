@@ -1,21 +1,3 @@
-<!--<section begin=summary />{{RoadmapSummary
-|icon=3ea2d817e92ac6e2e4e69bf9e9290d4f bigger.png 
-|pagelocation=Open Badges
-|pagetitle=Mozilla Open Badges
-|owner=Erin Knight, Carla Casilli, Sunny Lee, Emily Goligoski, Chris McAvoy, Brian Brennan, Mike Larsson, Jess Klein, Chloe Varelidi, Atul Varma, Meg Cole, Jade Forester
-|updated=March 2014
-|description=Mozilla's Open Badges make it easy for anyone to issue, earn and display badges across the web through a shared infrastructure that's free and open to all.
-}}<section end=summary />-->
-<section begin=summary />{{RoadmapSummary
-|icon=3ea2d817e92ac6e2e4e69bf9e9290d4f bigger.png 
-|pagelocation=Open Badges
-|pagetitle=Mozilla Open Badges
-|owner=Erin Knight, Carla Casilli, Sunny Lee, Emily Goligoski, Chris McAvoy, Brian Brennan, Mike Larsson, Jess Klein, Chloe Varelidi, Atul Varma, Meg Cole, Jade Forester
-|updated=March 2014
-|description=Localización al Español de la wiki sobre [https://wiki.mozilla.org/Badges Open Badges de Mozilla]). Open Badges hace fácil para cualquiera emitir, ganar y mostrar badges o insignias por toda de la web a través de una infraestructura colaborativa gratuita y abierta.
-}}<section end=summary />
-__NOTOC__ 
-
 <!--== What is a Badge? ==
 
 badge [baj]: a special or distinctive mark, token, or device worn as a sign of
@@ -23,7 +5,7 @@ allegiance, membership, authority, achievement, etc. (Source: [http://dictionary
 
 == ¿Qué es un Badge o Insignia? ==
 
-;badje o insignia :
+;badge o insignia :
 :# f. Señal, distintivo, o divisa honorífica.
 :# f. Emblema distintivo de una institución, asociación, o marca comercial, que se usa prendido en la ropa como muestra de vinculación o simpatía. Lucía en la solapa una insignia del club
 :# f. Bandera, estandarte, imagen o medalla de un grupo civil, militar o religioso.
@@ -35,7 +17,7 @@ Definiciones extraidas de la [http://lema.rae.es/drae/?val=insignia Real Académ
 <!-- A badge is a symbol or indicator of an accomplishment, skill, quality or interest. From the Boy and Girl Scouts, to PADI diving instruction, to the more recently popular geo-location game, [https://foursquare.com/ Foursquare], badges have been successfully used to set goals, motivate behaviors, represent achievements and communicate success in many contexts. A “digital badge” is an online record of achievements, tracking the recipient’s communities of interaction that issued the badge and the work completed to get it. Digital badges can support connected learning environments by motivating learning and signaling achievement both within particular communities as well as across communities and institutions. (Source: [https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf Erin Knight White Paper])-->
 
 
-Un badge o insignia es un símbolo o indicador de un logro, habilidad, saber cualidad o interes. Desde ls chicos y chicas de los scouts, las esculas de buceo PADI o los más recientes y populares juegos de geolocalización, [https://foursquare.com/ Foursquare], las insignias se han utilizado con éxito para establecer objetivos, motivar comportamientos, representan logros y comunicar el éxito en muchos contextos. Una "insignia digital" es una registro online de logros, con un seguimiento de la comunidad de interacción que emitió esa insignia y de la tarea que se completó para obtenerla. Las insignias digitales o Digital badges pueden ser un apoyo a ambientes de parendizaje on line motivando el aprendizaje y marcando los logros obtenidos tanto en interior de comunidades de aprendizaje como a través de distintas comunidades e instituciones.
+Un badge o insignia es un símbolo o indicador de un logro, habilidad, saber cualidad o interés. Desde los chicos y chicas de los scouts, las escuelas de buceo PADI o los más recientes y populares juegos de geolocalización, [https://foursquare.com/ Foursquare], las insignias se han utilizado con éxito para establecer objetivos, motivar comportamientos, representar logros y comunicar éxitos en muchos contextos. Una "insignia digital" o digital badge es un registro online de logros, con un seguimiento de la comunidad de interacción que emitió esa insignia y de la tarea que se completó para obtenerla. Las insignias digitales o digital badges pueden servir de apoyo a ambientes de aprendizaje online motivando el estudio y señalando los logros obtenidos tanto en el interior de las comunidades de aprendizaje como entre distintas comunidades e instituciones.
 (fuente: [https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf Erin Knight White Paper])
 
 <!--== Digital Badges vs Open Badges ==
@@ -44,110 +26,42 @@ A digital badge is an online representation of a skill you’ve earned. Open Bad
 
 == Digital Badges vs Open Badges o Insignias Digitales vs Insignias abiertas==
 
-Por ahora y hasta que se resuelvan las discusiones en torno a la localización de algunos términos, hemos de utilizar los términos Digital Badges y Open Badges en el idioma original. 
+Por ahora y hasta que se resuelvan las discusiones en torno a la traducción/localización de algunos términos, se utilizarán en este documento los términos Digital Badges y Open Badges en el idioma original. 
 
-Un badge digital es una representación online de una habilidad que has obtenido. Open Badges lleva ese concepto paso más allá, y le premite verificar sus habilidades, saberes, intereses y logros a trevés de organizaciones fiables y agrega esa información al archivo/imagen de la insignia, incrustando el metadato para su acceso o revisiones posteriores. Como el sistema está basado en estándares abiertos, los receptores de los badges pueden combinar multiples badges de difrentes emisores de manera que reflejen la histria completa de sus logros o saberes - de forma online como offline. Las insignias pueden ser mostradas en la web donde quienes las reciban deseen, y compartirlas para empleos, educación o aprendizajes continuos
+Un badge digital es una representación online de una habilidad que se ha obtenido. Open Badges lleva ese concepto un paso más allá, y le permite verificar sus habilidades, saberes, intereses y logros a través de organizaciones fiables y agrega esa información al archivo/imagen de la insignia, incrustando los metadatos para su acceder él o para futuras revisiones. Como el sistema está basado en estándares abiertos, los receptores de las insignias o badges pueden combinar multiples badges de difrentes emisores, de manera que se refleje la historia completa de los logros o saberes - obtenidos de forma online como offline. Estas insignias pueden ser exhibidas en la web, o donde quienes las reciban deseen, compartirlas para empleos, estudios o acreditar el aprendizaje continuo.
 
 <!--'''Open Badges are:'''-->
-''' Los Insignias Abiertas o Open Badges son: '''-->
+''' Los Insignias Abiertas o Open Badges son: '''
 
 <!--*'''Free and open:''' Mozilla Open Badges is not proprietary. It’s free software and an open technical standard any organization can use to create, issue and verify digital badges.
 *'''Transferable:''' Collect badges from multiple sources, online and off, into a single backpack. Then display your skills and achievements on social networking profiles, job sites, websites and more.
 *'''Stackable:''' Whether they’re issued by one organization or many, badges can build upon each other and be stacked to tell the full story of your skills and achievements.
 *'''Evidence-based:''' Open Badges are information-rich. Each badge has important metadata which is hard-coded into the badge image file itself that links back to the issuer, criteria and verifying evidence.-->
 
-*''' Libres y abiertos:''' Mozilla Open Badges no es propietario. Es software libre con estándares técnicos abieros de manera que culquier organización pueda crear, otorgar y verificar insignias digitales.
-*'''Transferibles:''' Reuna insignias/badges de multiples fuentes tanto online como offline, en una única "mochila". Luego muestre su habilidades, saberes y logros en perfiles de redes sociales, sitios laborales, páginas y más.
-*'''Acumulables:''' Ya sea que estén emitidos por una organización o muchas, las insignias/badges pueden construirse una sobre otra y ser apiladas para contar el recorrido completa de sus logros y saberes.
-*'''Basadas en evidencia:''' Las Insignias Abiertas o Open Badges son objetos ricos en información. Cada insignia contiene importantes metadatos que están dentro del código de la imagen de la insignia o badge y estos datos se enlazan al emisor, los criterios de emisión y la verificación del mismo.
+*''' Libres y abiertas:''' Mozilla Open Badges no es código propietario. Es software libre con estándares técnicos abiertos de forma que cualquier organización pueda crear, otorgar y verificar insignias digitales.
+*'''Transferibles:''' Reúna insignias/badges de múltiples fuentes tanto online como offline, en una única "mochila". Luego muestre su habilidades, saberes y logros en perfiles de redes sociales, sitios laborales, páginas y más.
+*'''Acumulables:''' Ya sea que estén emitidas por una organización o muchas, las insignias/badges pueden crearse una sobre otra y apilarse para contar el recorrido completo de logros y saberes.
+*'''Basadas en evidencia:''' Las Insignias Abiertas o Open Badges son objetos ricos en información. Cada insignia contiene importantes metadatos que están dentro del código de la imagen de la insignia o badge y estos datos enlazan al emisor, los criterios de emisión y la verificación de la misma.
 
-'''Open Badges make it easy to:'''
+<!--'''Open Badges make it easy to:'''-->
+''' Las Insignias Abiertas hacen fácil:'''
 
-*Get recognition for the things you learn;
+<!--*Get recognition for the things you learn;
 *Give recognition for the things you teach;
 *Verify skills; and
-*Display your verified badges across the web.
+*Display your verified badges across the web.-->
 
-== What is Mozilla's Open Badges project?  ==
+*Obtener reconocimiento de lo que aprende;
+*Otorgar reconocimiento de lo que enseña;
+*Verificar saberes, habilidades; y
+*Mostrar sus insignias verificadas en toda la web.
 
-Learning today happens everywhere, not just in the classroom. But it's often difficult to get recognition for skills and achievements that happen outside of school. '''Mozilla's Open Badges project''' is working to solve that problem, making it easy for anyone to issue, earn and display badges across the web through a shared technical infrastructure. '''The result:''' helping people of all ages gain and display 21st century skills and unlock new career and educational opportunities.
+<!--== What is Mozilla's Open Badges project?  ==-->
 
-Want to know more about Open Badges? [https://wiki.mozilla.org/Badges/About Read about what badges are and how they work] and check out our [https://wiki.mozilla.org/Badges/FAQs Frequently Asked Questions] page to find some answers, or shoot us an email at [mailto:badges@mozillafoundation.org badges@mozillafoundation.org]
+== ¿Qué es el proyecto Mozilla Open Badges? ==
 
-== Mozilla BadgeKit ==
+<!--Learning today happens everywhere, not just in the classroom. But it's often difficult to get recognition for skills and achievements that happen outside of school. '''Mozilla's Open Badges project''' is working to solve that problem, making it easy for anyone to issue, earn and display badges across the web through a shared technical infrastructure. '''The result:''' helping people of all ages gain and display 21st century skills and unlock new career and educational opportunities.-->
+Hoy, el aprendizaje, sucede en todos lados, no sólo en los salones de clase. Pero generalmente es difícil obtener reconocimiento por los saberes, habilidades y logros que se obtienen fuera de las instituciones académicas. ''' El proyecto Open Badges de Mozilla''' trabaja para resolver ese problema, haciendo sencillo para cualquiera otorgar, ganar y mostrar insignias que reconozcan esos saberes en toda la web, a través de una infraestructura técnica compartida. '''El resultado:''' ayudar a gente de todas las edades a ganar y mostrar saberes del siglo XXI y abrir nuevas carreras y oportunidades educativas.
+<!--Want to know more about Open Badges? [https://wiki.mozilla.org/Badges/About Read about what badges are and how they work] and check out our [https://wiki.mozilla.org/Badges/FAQs Frequently Asked Questions] page to find some answers, or shoot us an email at [mailto:badges@mozillafoundation.org badges@mozillafoundation.org]-->
 
-Mozilla BadgeKit is a new set of open, foundational tools to make the badging process easy.
-
-'''BadgeKit:'''
-*Supports key stages in the badging experience including creating, designing, assessing and issuing. 
-*Includes remixable templates and milestone badges allowing for easy customization.
-*Provides modular and open options (standards) for the community of  badge makers to use and build upon within their existing sites or systems.
-
-BadgeKit is now available in private beta for select partner organizations that meet specific technical requirements. Alternatively, anyone can download the code from GitHub and implement it on their own servers. 
-
-We will continue to add additional BadgeKit features throughout the coming year, including tools to support collecting, sharing and discovering badges.
-
-You can apply for access to the private beta hosted version of BadgeKit at http://www.badgekit.org, or grab the code for each tool from Github today at https://github.com/mozilla/openbadges-badgekit 
-
-For general information on BadgeKit, and to join our community, check out http://badgekit.openbadges.org
-
-[[Badges/badgekit|Read more about BadgeKit]]
-
-== Get started with Open Badges  ==
-
-;Ready? Check out our site and Community page
-:*http://openbadges.org
-:*http://community.openbadges.org/
-
-;Set? Create your Backpack
-:*https://backpack.openbadges.org
-
-;Go! Get some Badges!
-:*Take the [http://openbadges.org/earn/ Badges 101 Quiz] and earn your first badge!
-
-Read more about the [https://github.com/mozilla/openbadges#mozilla-open-badges Technology] behind Open Badges.
-<br>
-Find the [https://github.com/mozilla/openbadges/wiki Onboarding information for Issuers, Displayers and Earners] and get started!
-
-== Become part of the Community ==
-
-*[https://groups.google.com/d/forum/openbadges '''Open Badges learning group'''] and [https://groups.google.com/forum/#!forum/openbadges-dev '''development group'''] -- Subscribe to these groups to take part in ongoing conversations about badges in the wild.
-*[https://openbadges.etherpad.mozilla.org/openbadges-community-2 '''Open Badges Community Calls'''] -- Join our weekly global call every Wednesday at 9am PT / 12pm ET / 5pm GMT. During these hour-long calls we share our progress and encourage you to share your Open Badges work, questions, and comments. They're fun and we encourage you to come along!
-*[https://openbadges.etherpad.mozilla.org/research-calls '''Open Badges Research & Design Calls'''] -- If you are interested in Open Badges Research and Badge System Design, join this call, held on Wednesdays in the hour before the Community Calls, at 8am PT / 11am ET / 4pm GMT.
-*[http://openbadges.tumblr.com// '''Open Badges Blog'''] -- Follow our blog for Open Badges news and updates.
-*[http://twitter.com/#!/openbadges '''Twitter'''] -- Follow @OpenBadges and use the [https://twitter.com/search?q=%23OpenBadges&src=typd #OpenBadges] hashtag to join the conversation on Twitter.
-*[https://www.facebook.com/MozillaOpenBadges '''Facebook'''] -- Like us on Facebook for news and updates you can share with your networks.
-*[https://wiki.mozilla.org/IRC '''IRC'''] -- Reach us on IRC at irc.mozilla.org, #badges
-*[[Media:Open_Badges_Presentation_-_General.pdf‎| '''Open Badges presentation materials''']] -- Want to give an Open Badges presentation? To get you started, here's a PDF. Please note that all of these documents are [https://creativecommons.org/licenses/by-sa/2.0/ CC by SA].
-*[https://docs.google.com/document/d/1aTAP04N9dAuSGv71tWOUA1iqYxWWTA4dlQIyP-7WT0E/edit '''Common badges terms and vocabulary'''] -- Help us to build a common lexicon of digital badge terms.
-
-== Who is using Open Badges? ==
-
-*[http://openmatt.wordpress.com/2011/03/17/badges-in-the-real-world/ '''User stories'''] -- Hypothetical examples of how badges can help solve problems in everyday scenarios.<br> 
-*[http://www.2mbetterfutures.org/ '''2 Million Better Futures'''] -- This project from [http://www.cgiamerica.org/ CGI America] aims to help 1 million workers and 1 million students succeed using Open Badges by 2016.
-*[http://chicagosummeroflearning.org/about '''Chicago Summer of Learning'''] -- The first citywide badging initiative, which was so successful that [http://www.enewspf.com/school-news/45425-mayor-emanuel-announces-nearly-100-000-badges-awarded-through-chicago-summer-of-learning.html '''Mayor Emmanuel committed to continuing the program next year.''']
-*[http://www.openbadges.org/participating-issuers/ '''Participating Issuers'''] -- An updated list of badge issuers and designers.
-*[http://bit.ly/platform-chart '''General Badge Issuing Platform Chart'''] -- A list of platforms for issuing open badges generated and continuously updated by the community.
-*[http://blog.makewav.es/2013/08/05/open-badges-for-schools-what-are-the-options/ '''Badges for School Issuer Platforms'''] -- Badge issuing platforms for schools.
-*[https://wiki.mozilla.org/Badges/Issuers '''Add your organization!'''] -- If you're issuing, designing or exploring open badges with your communities, add your organization to our list of issuers.
-
-== Further Reading  ==
-
-*[https://wiki.mozilla.org/File:OpenBadges-Working-Paper_012312.pdf '''White Paper'''] -- An in-depth look at how badges can reinvent 21st century learning<br> 
-*[http://bit.ly/badgevalidation '''Open Badges Validation Paper'''] -- An exploration of how to build an open and distributed accreditation system for badges and the organizations that issue them<br>
-*[http://www.scoop.it/t/badges-for-lifelong-learning/?tag=Sheryl+Grant '''Press coverage'''] -- A collection of articles and related items from community member [http://www.hastac.org/users/slgrant Sheryl Grant] (new Press Coverage page coming soon!)
-*[https://wiki.mozilla.org/Badges/roadmap '''Open Badges roadmap'''] -- We're continually updating the roadmap with new features.
-*[http://dmlcompetition.net '''Digital Media and Learning Competition: Badges for LifeLong Learning'''] (administered by HASTAC and funded by MacArthur) -- click to learn more.
-
-== Press Inquiries ==
-
-Please contact [mailto:press@mozilla.com press@mozilla.com].
-
-== Get involved with Mozilla  ==
-
-*[http://join.mozilla.org '''Join Mozilla'''] -- you could get a snazzy t-shirt for joining!
-*[http://www.mozilla.org/about/mission.html '''Mozilla's mission'''] -- Read more about our mission to promote openness, innovation & opportunity on the Web.
-*[https://www.facebook.com/mozilla '''Like Mozilla on Facebook'''] and [http://twitter.com/mozilla '''Follow Mozilla on Twitter''']
-*[https://donate.mozilla.org/Sign-Up '''Get updates from Mozilla'''] -- Be the first to know what we're doing and how you can get involved.
-
-[[Image:Open_Badges_napkin_sketch.png|800px]]
+¿Quiéren saber más sobre Open Badges?  [https://wiki.mozilla.org/Badges/About Enterate de lo que las insignias son y cómo funcionan] y chequeá nuestra página de  [https://wiki.mozilla.org/Badges/FAQs Preguntas Frecuentes], o envianos un email a [mailto:badges@mozillafoundation.org badges@mozillafoundation.org]
