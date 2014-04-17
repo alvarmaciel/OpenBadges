@@ -1,5 +1,6 @@
 ## Open Badges
-This is an experiment, a test to play with [GitBook](http://www.gitbook.io/ "GitBook") using the information of the Open Badge Mozilla's wiki page.
-And in the process translate/localizate the wiki page :)
+Este es un experimento en el cual jugamos con [GitBook](http://www.gitbook.io/ "GitBook") usando la información de la [Wiki sobre Open Badges de Mozilla](https://wiki.mozilla.org/Badges_Es).
+Y en el proceso traducimos la wiki :)
+
 
 ![Open Badges](http://openbadges.org/wp-content/themes/openbadges2/media/images/content-background.png "Open Badges")

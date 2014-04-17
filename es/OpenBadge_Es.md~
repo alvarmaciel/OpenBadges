@@ -40,10 +40,10 @@ Un badge digital es una representación online de una habilidad que se ha obteni
 *'''Stackable:**Whether they’re issued by one organization or many, badges can build upon each other and be stacked to tell the full story of your skills and achievements.
 *'''Evidence-based:**Open Badges are information-rich. Each badge has important metadata which is hard-coded into the badge image file itself that links back to the issuer, criteria and verifying evidence.-->
 
-* **Libres y abiertas:**Mozilla Open Badges no es código propietario. Es software libre con estándares técnicos abiertos de forma que cualquier organización pueda crear, otorgar y verificar insignias digitales.
-* **Transferibles:**Reúna insignias/badges de múltiples fuentes tanto online como offline, en una única "mochila". Luego muestre su habilidades, saberes y logros en perfiles de redes sociales, sitios laborales, páginas y más.
-* **Acumulables:**Ya sea que estén emitidas por una organización o muchas, las insignias/badges pueden crearse una sobre otra y apilarse para contar el recorrido completo de logros y saberes.
-* **Basadas en evidencia:**Las Insignias Abiertas o Open Badges son objetos ricos en información. Cada insignia contiene importantes metadatos que están dentro del código de la imagen de la insignia o badge y estos datos enlazan al emisor, los criterios de emisión y la verificación de la misma.
+***Libres y abiertas:**Mozilla Open Badges no es código propietario. Es software libre con estándares técnicos abiertos de forma que cualquier organización pueda crear, otorgar y verificar insignias digitales.
+***Transferibles:**Reúna insignias/badges de múltiples fuentes tanto online como offline, en una única "mochila". Luego muestre su habilidades, saberes y logros en perfiles de redes sociales, sitios laborales, páginas y más.
+***Acumulables:**Ya sea que estén emitidas por una organización o muchas, las insignias/badges pueden crearse una sobre otra y apilarse para contar el recorrido completo de logros y saberes.
+***Basadas en evidencia:**Las Insignias Abiertas o Open Badges son objetos ricos en información. Cada insignia contiene importantes metadatos que están dentro del código de la imagen de la insignia o badge y estos datos enlazan al emisor, los criterios de emisión y la verificación de la misma.
 
 <!--'''Open Badges make it easy to:'''-->
 **Las Insignias Abiertas hacen fácil:**
@@ -67,5 +67,3 @@ Hoy, el aprendizaje, sucede en todos lados, no sólo en los salones de clase. Pe
 <!--Want to know more about Open Badges? [https://wiki.mozilla.org/Badges/About Read about what badges are and how they work] and check out our [https://wiki.mozilla.org/Badges/FAQs Frequently Asked Questions] page to find some answers, or shoot us an email at [mailto:badges@mozillafoundation.org badges@mozillafoundation.org]-->
 
 ¿Quiéren saber más sobre Open Badges?  [Enterate de lo que las insignias son y cómo funcionan](https://wiki.mozilla.org/Badges/About "Enterate de lo que las insignias son y cómo funcionan") y chequeá nuestra página de  [Preguntas Frecuentes](https://wiki.mozilla.org/Badges/FAQs "Preguntas Frecuentes"), o envianos un email a [badges@mozillafoundation.org](mailto:badges@mozillafoundation.org "badges@mozillafoundation.org")
-
-![Open Badges napkin sketch](https://wiki.mozilla.org/images/thumb/8/8a/Open_Badges_napkin_sketch.png/800px-Open_Badges_napkin_sketch.png "Open Badges napkin sketch")
