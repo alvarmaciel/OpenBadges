@@ -1,7 +1,4 @@
-# Open Badges
-![Open Badges napkin sketch](https://wiki.mozilla.org/images/thumb/8/8a/Open_Badges_napkin_sketch.png/800px-Open_Badges_napkin_sketch.png "Open Badges napkin sketch")
-
-## Open Badges Articles and translations
+## Como traducir los artículos de Open Badges
 
 Este es un repositorio para mantener la localización de la [wiki de Mozilla sobre Open Badges](https://wiki.mozilla.org/Badges)
 El sistema a seguir para organizar las localizaciones será agregar a cada Slug de la página el sufijo _Es entonces la versión en castellano de la página https://wiki.mozilla.org/Badges será https://wiki.mozilla.org/Badges_Es
